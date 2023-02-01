@@ -9,7 +9,9 @@
 - Coding course in C++ with LUISS
 - 1 month internship at [beanTech](https://www.beantech.it/) - software application, using C# and blazor.
 
-
+### 2023 ###
+- 1 week training course in cyber security with Olicyber held in Turin
+- 
 <!---
 mikelaura/mikelaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
